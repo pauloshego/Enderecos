@@ -1,0 +1,6 @@
+br\com\ueg\controller\EmpresaController.class
+br\com\ueg\DemoApplication.class
+br\com\ueg\repository\EmpresaRepository.class
+br\com\ueg\services\EmpresaServices.class
+br\com\ueg\model\Empresa.class
+br\com\ueg\services\implementation\EmpresaServicesImplementation.class
